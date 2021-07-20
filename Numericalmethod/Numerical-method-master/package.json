@@ -15,7 +15,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-mathjax-preview": "^0.1.11",
-    "react-native": "^0.59.2",
+    "react-native": "^0.62.3",
     "react-plotly.js": "^2.3.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.8"
